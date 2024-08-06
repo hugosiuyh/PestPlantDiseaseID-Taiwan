@@ -20,7 +20,9 @@ Ensure you have the following installed:
 - Required Python libraries (listed in `requirements.txt`)
 
 ### Installation
+Access via google colab: https://drive.google.com/file/d/1wzNaimKnKTA57igvEvFaxiaASHD6P73m/view?usp=sharing
 
+Or
 1. Clone the repository:
     ```sh
     git clone https://github.com/yourusername/plant_disease_detection.git
