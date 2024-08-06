@@ -37,17 +37,12 @@ Ensure you have the following installed:
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
     ```
 
-4. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-5. Launch Jupyter Notebook:
+4. Launch Jupyter Notebook:
     ```sh
     jupyter notebook
     ```
 
-6. Open the notebook `Plant_Disease_Detection.ipynb` and follow the instructions within.
+5. Open the notebook `Plant_Disease_Detection.ipynb` and follow the instructions within.
 
 ### Notebook Structure
 
