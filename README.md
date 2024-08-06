@@ -3,6 +3,8 @@
 
 This project involves a Jupyter notebook for detecting plant diseases using a deep learning model. The notebook leverages a pre-trained Faster R-CNN model fine-tuned on a dataset of images of common plant diseases and pests in Taiwan. 
 
+Link to research: https://docs.google.com/document/d/1n786LkKaFmz_qqqdL6AAu1BLEJ1duCOAj83fhd8zKeY/edit?usp=sharing
+
 ## Features
 
 - **Data Preprocessing**: Steps to clean and prepare image datasets for training.
